@@ -17,6 +17,10 @@
     background-color: chartreuse;
     border-radius: 20px;
 }
+.logo{
+    width: 30vw;
+    height: 30vh;
+}
 .container{
     width: 80vw;
     text-align: center;
