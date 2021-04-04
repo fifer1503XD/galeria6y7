@@ -19,7 +19,6 @@
     border-radius: 20px;
 }
 .container{
-    display: flex;
     width: 80vw;
     text-align: center;
     justify-content: center;
